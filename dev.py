@@ -4,3 +4,4 @@ ertfjkd
 ttyt
 print )ome in dev second commit_
 hhh
+print (lesson 1)
